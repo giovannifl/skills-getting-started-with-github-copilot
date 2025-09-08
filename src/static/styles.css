@@ -142,3 +142,11 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participant-item {
+  list-style: disc;
+  margin-bottom: 2px;
+  color: #333;
+  font-size: 0.97em;
+  padding-left: 2px;
+}
